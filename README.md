@@ -1,18 +1,10 @@
-# Devfolio - Portfolio Template ⚡️
-
-## A Professional, Sleek Portfolio for Developers!
+# My Portofolio! ⚡️
 
 ---
 
 ## 🌐 LIVE DEMO
 
 **[View the Portfolio](https://free-portfolio-aayush.vercel.app/)**
-
----
-
-## ⭐ Give This Repo a Star
-
-If you find this project useful or interesting, please consider giving it a star on GitHub! Your support helps me keep this project updated and motivates me to work on more cool stuff.
 
 ---
 
@@ -36,13 +28,6 @@ Check out the demo: **[Click here](https://free-portfolio-aayush.vercel.app/)**
 
 ---
 
-## Why Do You Need a Portfolio? ☝️
-
-- **Showcase Your Expertise:** Present your projects, skills, and achievements in a polished and professional way.
-- **Increase Your Online Presence:** Boost your digital visibility to potential clients and employers.
-- **Go Beyond a Resume:** Demonstrate your abilities and creativity through a live, interactive showcase.
-
----
 
 ## 📫 Get in Touch
 
@@ -53,4 +38,4 @@ For any inquiries or feedback, feel free to reach out:
 
 ---
 
-Thank you for checking out the Devfolio template!
+Thank you for checking out my Devfolio !
