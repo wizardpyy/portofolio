@@ -33,8 +33,8 @@ Check out the demo: **[Click here](https://wizardpyy.github.io/portofolio/)**
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: [iAayushBharti@gmail.com](mailto:ckonstantinos31@gmail.com)
+- **Email**: [ckonstantinos31@gmail.com](mailto:ckonstantinos31@gmail.com)
 
 ---
 
-Thank you for checking out my Devfolio !
+Thank you for checking out my Portofolio !
