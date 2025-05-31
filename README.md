@@ -24,7 +24,7 @@
 - **Blazing Fast Performance:** Optimized to ensure a smooth, seamless experience for all users.
 - **Detailed Documentation:** Step-by-step instructions for setup, customization, and further development.
 
-Check out the demo: **[Click here](https://free-portfolio-aayush.vercel.app/](https://wizardpyy.github.io/portofolio/)**
+Check out the demo: **[Click here](https://wizardpyy.github.io/portofolio/)**
 
 ---
 
