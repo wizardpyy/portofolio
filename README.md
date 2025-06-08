@@ -5,7 +5,7 @@
 
 ## 🌐 LIVE DEMO
 
-**[View the Portfolio]()**
+**[View the Portfolio](https://wizardpyy.github.io/portofolio/)**
 
 ---
 
@@ -17,7 +17,7 @@ If you find this project useful or interesting, please consider giving it a star
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview]()
+![Portfolio Preview](![image](https://github.com/user-attachments/assets/c2321635-8a51-4717-afa0-757fd7d0123a))
 
 ---
 
